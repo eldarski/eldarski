@@ -11,26 +11,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eldarski/eldarski/main/metrics.svg" />
-</p>
+## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eldarski&theme=tokyonight&hide_border=true" />
-</p>
-
-## ⏰ Coding Habits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eldarski/eldarski/main/metrics.plugin.habits.svg" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eldarski&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ## 📈 Activity Graph

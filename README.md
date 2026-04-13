@@ -4,10 +4,7 @@
   Building <a href="https://zingyy.com">zingyy</a> — AI interview platform.
 </p>
 
-<p align="center">
-  <a href="https://github.com/eldarski?tab=followers"><img src="https://img.shields.io/github/followers/eldarski?label=Followers&style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=eldarski&style=flat-square&color=blue" alt="Profile views" />
-</p>
+
 
 ---
 

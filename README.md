@@ -14,12 +14,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldarski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=eldarski&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/eldarski/eldarski/main/metrics.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldarski&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://streak-stats.demolab.com?user=eldarski&theme=tokyonight&hide_border=true" />
+</p>
+
+## ⏰ Coding Habits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eldarski/eldarski/main/metrics.plugin.habits.svg" />
 </p>
 
 ## 🏆 Trophies

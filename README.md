@@ -20,7 +20,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldarski&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=E6EDF3&langs_count=10&card_width=700" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldarski&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=E6EDF3&langs_count=10&card_width=700&exclude_repo=mediapipe,opencv,tfjs-models,face_recognition,dlib,insightface,nuclei,retinaface,CLIP,ChatGPT-Line-Bot,litgpt,mtcnn,llama,awesome-chatgpt-prompts,mistral-inference,aiavatarkit,L1B3RT45" />
 </div>
 
 <br />

@@ -6,10 +6,6 @@
 
 <br />
 
-<a href="https://zingyy.com"><img src="https://img.shields.io/badge/zingyy-2F81F7?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgNy41bDEwIDUuNSAxMC01LjVMMTIgMnoiLz48L3N2Zz4=&labelColor=0d1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=eldarski&style=flat-square&color=2F81F7&label=views&labelColor=0d1117" />
-<a href="https://github.com/eldarski?tab=followers"><img src="https://img.shields.io/github/followers/eldarski?style=flat-square&color=2F81F7&labelColor=0d1117&label=followers" /></a>
-
 </div>
 
 <br />

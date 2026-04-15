@@ -32,12 +32,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eldarski&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
-
-<br />
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/eldarski/eldarski/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 

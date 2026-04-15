@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://zingyy.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&height=60&lines=Hi%2C+I'm+Eldar+%F0%9F%91%8B;Building+zingyy+%E2%80%94+AI+interview+platform;Shipping+daily." alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Eldar;Building+zingyy+%E2%80%94+AI+interview+platform;Shipping+daily." alt="intro" />
 </a>
 
 <br />
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eldarski&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=E6EDF3&icon_color=2F81F7&ring_color=2F81F7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eldarski&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=E6EDF3&icon_color=2F81F7&ring_color=2F81F7&show=reviews,prs_merged" />
 <img height="165" src="https://streak-stats.demolab.com?user=eldarski&hide_border=true&background=00000000&stroke=00000000&ring=2F81F7&fire=39D353&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2F81F7&sideLabels=8B949E&dates=8B949E" />
 
 </div>

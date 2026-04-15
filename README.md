@@ -39,8 +39,6 @@
 
 <div align="center">
 
-### 🐍 The snake eats my contributions
-
 <img src="https://raw.githubusercontent.com/eldarski/eldarski/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
